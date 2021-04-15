@@ -1,5 +1,5 @@
-# P7
-Implémentez un modèle de scoring
+# Implémentez un modèle de scoring
+Construire une métrique métier pour la modélisation d’un score d’attribution de prêt bancaire, interprétation sur Dashboard et déploiement de l'API.
 
 Réaliser un dashboard pour présenter son travail de modélisation
 
